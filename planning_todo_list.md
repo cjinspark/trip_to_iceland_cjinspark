@@ -1,5 +1,4 @@
-## to do list for iceland
+## to do list for iceland - prioritized
 
-- plan dates
 - get flights
 - book hotel
