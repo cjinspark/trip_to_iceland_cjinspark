@@ -1,1 +1,6 @@
-# trip_to_iceland_cjinspark
+# data carpentry workshop
+
+example repository
+
+feb. 10th, 2020
+- learning github
